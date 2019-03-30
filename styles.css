@@ -28,6 +28,10 @@ img#bannerImage {
 .main-nav {
   grid-area: nav;
 }
+.main-nav ul li a {
+  text-decoration:none;
+  color:#1149a3;
+}
 .side {
   grid-area: sidebar;
 }
