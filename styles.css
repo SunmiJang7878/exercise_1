@@ -22,6 +22,9 @@
 .content {
   grid-area: content;
 }
+img#bannerImage {
+  max-width:100%;
+}
 .main-nav {
   grid-area: nav;
 }
