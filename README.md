@@ -6,6 +6,7 @@ This repository contains the starter code for the `Git Practice` exercise.
 ## Student Information
 
 Student Name : Sunmi Jang
+
 Student ID : N01318905
 
 
